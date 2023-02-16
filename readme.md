@@ -1,4 +1,4 @@
-# (Installation guide and description)
+# Installation guide and description
  
 This program was designed to pick up news from 
 https://itc.ua/techno/ and generates a json as a result.
